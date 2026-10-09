@@ -1,0 +1,6 @@
+{
+  "name": "DASHBOARD ADMINISTRASI ULFA RAMADHANI",
+  "description": "Sistem Informasi Manajemen Administrasi Guru Kelas & Mapel Kurikulum Merdeka Deep Learning (SK BSKAP Kemendikdasmen No. 046/H/KR/2025) dengan AI Suite Terpadu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
